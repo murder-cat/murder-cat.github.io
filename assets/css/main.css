@@ -3026,6 +3026,11 @@
 
 	}
 
+	#twitch-embed {
+		padding: 20px;
+
+	}
+
 	.wrapper > header {
 		text-align: center;
 		background: #FFF;
